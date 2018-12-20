@@ -1,0 +1,13 @@
+body {
+    font-family: 'Major Mono Display', monospace;
+    text-align: center;
+    font-size: 60px;
+    background-image: url("Ritual.jpg");
+         
+    background-attachment: fixed; 
+    background-size: 50%
+}
+
+p{
+    color: ghostwhite
+}
